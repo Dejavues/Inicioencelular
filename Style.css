@@ -18,7 +18,7 @@
 
 .card{
     text-align: center;
-    width: 30%;
+    width: 70%;
     /* lo centra en toda la pagina */
     margin: auto;
     margin-top: 50px;
@@ -31,7 +31,7 @@
 
 .card2{
     text-align: center;
-    width: 30%;
+    width: 70%;
     /* lo centra en toda la pagina */
     margin: auto;
     margin-top: 50px;
@@ -43,7 +43,7 @@
 
 .card3{
     text-align: center;
-    width: 30%;
+    width: 70%;
     /* lo centra en toda la pagina */
     margin: auto;
     margin-top: 50px;
@@ -149,5 +149,6 @@ details{
     margin-bottom: 50px;
     font-family: 'Open Dyslexic';
     text-align: center;
+
 
 }
