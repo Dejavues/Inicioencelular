@@ -1,0 +1,153 @@
+
+/* PAGINA DE INICIO*/
+@font-face{font-family: "Open Dyslexic";
+    src: url("Sweetlove/Fonts/OpenDyslexic3-Regular.ttf") format("truetype");
+    font-weight: 100px;
+    font-family: 'Open Dyslexic';}
+
+.inicio{
+    background: rgb(148, 216, 230);
+    background-image: url(https://i.pinimg.com/1200x/be/d1/2e/bed12e9f52cf05683ee7136a626f1bed.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+        margin: 0;
+    
+}
+
+.card{
+    text-align: center;
+    width: 30%;
+    /* lo centra en toda la pagina */
+    margin: auto;
+    margin-top: 50px;
+    padding: 20px 10px;
+    box-shadow: 0px 0px 45px rgb(95, 95, 228);
+    background: linear-gradient(rgb(201,227, 161),rgb(124, 216, 155));
+    border-radius: 5%;
+     /* [display: inline-block;] */
+}
+
+.card2{
+    text-align: center;
+    width: 30%;
+    /* lo centra en toda la pagina */
+    margin: auto;
+    margin-top: 50px;
+    padding: 20px 10px;
+    box-shadow: 0px 0px 45px rgb(95, 95, 228);
+    background: linear-gradient(rgb(107, 78, 213),rgb(210, 211, 251));
+    border-radius: 5%;
+}
+
+.card3{
+    text-align: center;
+    width: 30%;
+    /* lo centra en toda la pagina */
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 20px 10px;
+    box-shadow: 0px 0px 45px rgb(95, 95, 228);
+    background: linear-gradient(rgb(70, 79, 246),rgb(132, 133, 224));
+    border-radius: 5%;
+}
+
+.card-title{
+    padding-top: 10px; 
+    font-size: 100%;
+    margin: 0;
+    color: cadetblue;
+    font-family: 'Open Dyslexic';
+}
+
+.card-subtitle{ 
+    font-size: 100%; 
+    font-weight:100; 
+    letter-spacing: 2px;
+    color: cadetblue;
+    font-family: 'Open Dyslexic';
+}
+.card-img{
+    max-width: 50%;
+    height: auto;
+    padding-top: 25px;
+    border-radius: 10%;
+}
+.card-content{ 
+    padding: 0px;  
+    text-align: center; 
+    font-size: 100%;
+    color: white;
+}
+
+.box2{  /* Ejemplo bonito */
+    background: rgba(185, 98, 228, 0.434);
+    padding: 20px 50px;
+    text-align: center;
+    color:rgb(139, 214, 227);
+    border-top: 3px solid rgb(218, 212, 174);
+}
+h1{
+    text-align: center;
+    margin: 0;
+}
+h2{
+    text-align: center;
+    margin: 0;
+}
+p{
+    font-family: 'Open Dyslexic';
+    text-align: center;
+}
+.imageninicio{
+    text-align: center;
+}
+.formulario{
+    text-align: center;
+}
+textarea{
+    font-family: 'Open Dyslexic';
+    min-width: 100%;
+    resize: vertical;
+    min-height: 70px;
+    max-height: 200px;
+    text-align: center;
+}
+
+a{
+        font-family: 'Open Dyslexic';
+
+}
+
+input{
+    font-family: 'Open Dyslexic';
+    text-align: center;
+}
+
+
+summary{
+    background-color:transparent;
+    border-bottom: 1px solid rgb(115, 57, 125);
+    font-size: 1.3em;
+    color: rgb(115, 57, 125);
+    
+}
+
+details{
+    background-color:transparent;
+    border: 1px solid rgb(115, 57, 125);
+    padding: 9px;
+    font-size: 1em;
+    color: rgb(48, 54, 169);
+    margin-bottom: 5%;
+        font-family: 'Open Dyslexic';
+
+}
+.form-input{
+    margin-bottom: 50px;
+    font-family: 'Open Dyslexic';
+    text-align: center;
+
+}
